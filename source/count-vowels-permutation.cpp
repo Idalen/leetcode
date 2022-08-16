@@ -79,4 +79,4 @@ public:
         string history;
         return combination(n, &history, mem);
     }
-};
+};  
